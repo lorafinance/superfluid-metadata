@@ -829,7 +829,12 @@ module.exports =
             "idaV1": "0x48801AF5454828b078BEA31B0a2ac8D63d31e62f",
             "superTokenFactory": "0xC1033967aE933b41388F4a784eA0496741165D7D",
             "superfluidLoader": "0xd0E43041C980af6131302DC7d30Db10a5504fBa5",
-            "batchLiquidator": "0x6048Cc05D4703E51d5273093aC6c372A41323A66"
+            "batchLiquidator": "0x6048Cc05D4703E51d5273093aC6c372A41323A66",
+            "cfaV1Forwarder": "0xBeeE471b399E06a8fE20A87F7357786D84d965b7",
+            "gdaV1Forwarder": "0x4C1195Bc01b68Ed1E185a3293e3E59B2B46fc795",
+            "macroForwarder": "0xEb0c49fbfdfD7637f4ac2E74Ab037f03AaD9d85A",
+            "governance": "0xb899C80099Ee6668637cF8E09cdfB80f622c0952",
+            "toga": "0x91b81C82Aa77a45680E4E5eac8A53929aF00226D"
         },
 
         "startBlockV1": 3717775,
